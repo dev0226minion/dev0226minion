@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+dev0226minion.;I+AM+A+SEASONED+WEB+DEVELOPER.;7+%2B%20years%20of%20coding%20experience;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+Declan+Jackson.;I+AM+A+SEASONED+WEB+DEVELOPER.;9+%2B%20years%20of%20coding%20experience;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev0226minion&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
 
